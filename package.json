@@ -1,11 +1,11 @@
 {
-"name": "mi-api-vercel",
-"version": "1.0.0",
-"type": "module",
-"scripts": {
-"dev": "vercel dev"
-},
-"engines": {
-"node": ">=18.0.0"
-}
+  "name": "mi-api-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": "20.x"
+  }
 }
